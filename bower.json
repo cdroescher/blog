@@ -1,0 +1,18 @@
+{
+  "name": "playground",
+  "authors": [
+    "Christian Droescher"
+  ],
+  "description": "",
+  "main": "index.html",
+  "keywords": [
+    "linux",
+    "python",
+    "bash"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
